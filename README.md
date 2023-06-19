@@ -2,12 +2,6 @@
 
 The official **EddieBot** for the official [Discord server](http://discord.eddiehub.org). Join us at [Discord](http://discord.eddiehub.org) today!
 
-## Features
-
-- Checking all people's messages for inclusive language.
-
-![Eddie bit warning](https://user-images.githubusercontent.com/624760/200577618-af25764f-a9ce-4ce8-a1f2-f8808c682c77.png)
-
 ## Config / Secrets environment variables
 
 Copy `.env.example` to `.env` and add your private information
@@ -42,12 +36,12 @@ $ gh repo clone EddieHubCommunity/EddieBot
 ### HTTPS
 
 ```bash
-$ git clone https://github.com/EddieHubCommunity/EddieBot.git
+$ git clone https://github.com/Morita0711/Eddie_Bot
 ```
 
 **3.** Set upstream command:
 ```bash
-git remote add upstream https://github.com/EddieHubCommunity/EddieBot.git
+git remote add upstream https://github.com/Morita0711/Eddie_Bot
 ```
 
 **4.** Navigate to the new project directory:
@@ -119,9 +113,3 @@ Stuck? Have any questions or comments? Join us on [Discord](http://discord.eddie
 ## License
 
 The EddieBot is licensed under the [MIT](https://github.com/EddieHubCommunity/EddieBot/blob/main/LICENSE) license.
-
-## Thanks to all Contributors 💪 
-
-Thanks a lot for spending your time helping EddieBot grow. Thanks a lot! Keep rocking 🍻
-
-[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/EddieBot)](https://github.com/EddieHubCommunity/EddieBot/graphs/contributors)
